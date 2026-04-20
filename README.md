@@ -8,7 +8,7 @@ An AI-powered digital farming platform that helps farmers detect crop health, pe
 
 **Faiez Ahmad**  
 Email: faiezahmad061@gmail.com 
-GitHub: [@gagansingh0805](https://github.com/faiezahmad01)
+GitHub: [@faiezahmad01](https://github.com/faiezahmad01)
 
 ## 🚀 Features
 
