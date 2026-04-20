@@ -6,9 +6,9 @@ An AI-powered digital farming platform that helps farmers detect crop health, pe
 
 ## 👤 Author
 
-**gagan singh**  
-Email: gagansingh2005.8@gmail.com  
-GitHub: [@gagansingh0805](https://github.com/gagansingh0805)
+**Faiez Ahmad**  
+Email: faiezahmad061@gmail.com 
+GitHub: [@gagansingh0805](https://github.com/faiezahmad01)
 
 ## 🚀 Features
 
@@ -132,4 +132,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ---
 
-**Made with ❤️ by gagan singh**
+**Made with ❤️ by Faiez Ahmad**
